@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomateUI", "AutomateUI\AutomateUI.csproj", "{D8A40B5F-DD51-4BFB-96FD-265A5D2781DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomateUI.Framework", "AutomateUI.Framework\AutomateUI.Framework.csproj", "{2ED8B33C-B26D-463E-A287-8C9D52BF8ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A40B5F-DD51-4BFB-96FD-265A5D2781DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A40B5F-DD51-4BFB-96FD-265A5D2781DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A40B5F-DD51-4BFB-96FD-265A5D2781DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A40B5F-DD51-4BFB-96FD-265A5D2781DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED8B33C-B26D-463E-A287-8C9D52BF8ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED8B33C-B26D-463E-A287-8C9D52BF8ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED8B33C-B26D-463E-A287-8C9D52BF8ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED8B33C-B26D-463E-A287-8C9D52BF8ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1BDAD82-538C-46F2-9723-1B727F927F3C}
+	EndGlobalSection
+EndGlobal
